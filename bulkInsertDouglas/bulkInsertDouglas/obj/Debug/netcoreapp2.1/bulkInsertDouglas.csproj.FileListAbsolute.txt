@@ -1,0 +1,11 @@
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\bin\Debug\netcoreapp2.1\bulkInsertDouglas.deps.json
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\bin\Debug\netcoreapp2.1\bulkInsertDouglas.runtimeconfig.json
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\bin\Debug\netcoreapp2.1\bulkInsertDouglas.runtimeconfig.dev.json
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\bin\Debug\netcoreapp2.1\bulkInsertDouglas.dll
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\bin\Debug\netcoreapp2.1\bulkInsertDouglas.pdb
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\obj\Debug\netcoreapp2.1\bulkInsertDouglas.csproj.CoreCompileInputs.cache
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\obj\Debug\netcoreapp2.1\bulkInsertDouglas.AssemblyInfoInputs.cache
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\obj\Debug\netcoreapp2.1\bulkInsertDouglas.AssemblyInfo.cs
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\obj\Debug\netcoreapp2.1\bulkInsertDouglas.dll
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\obj\Debug\netcoreapp2.1\bulkInsertDouglas.pdb
+C:\Douglas\bulkInsertDouglas\bulkInsertDouglas\obj\Debug\netcoreapp2.1\bulkInsertDouglas.csprojAssemblyReference.cache
